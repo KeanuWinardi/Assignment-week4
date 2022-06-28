@@ -1,4 +1,4 @@
-1. Create a folder called `git-basic`. **mkdir git-basic
+1. Create a folder called `git-basic`. **mkdir git-basic**
 2. `cd` into the `git-basic` folder. cd git-basic
 3. Create a file called `first.txt`. echo first.txt
 4. Initialize an empty git repository. git init
